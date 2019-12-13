@@ -1,0 +1,356 @@
+C:\Users\Administrator\Desktop\Phat trien ung dung\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\Phat trien ung dung\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\Phat trien ung dung\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\Phat trien ung dung\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Phat trien ung dung\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmDangNhap.resources
+C:\Users\Administrator\Desktop\Phat trien ung dung\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Phat trien ung dung\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Phat trien ung dung\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\Phat trien ung dung\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\Phat trien ung dung\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmChinh.resources
+C:\Users\Administrator\Desktop\Phat trien ung dung\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frm_QuanLiNV.resources
+C:\Users\Administrator\Desktop\Phat trien ung dung\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmNhanDSUV.resources
+C:\Users\Administrator\Desktop\Phat trien ung dung\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmTaoTaiKhoan.resources
+C:\Users\DHien\Downloads\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DHien\Downloads\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DHien\Downloads\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\DHien\Downloads\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\DHien\Downloads\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DHien\Downloads\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csprojResolveAssemblyReference.cache
+C:\Users\DHien\Downloads\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmNhanDSUV.resources
+C:\Users\DHien\Downloads\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DHien\Downloads\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csproj.GenerateResource.Cache
+C:\Users\DHien\Downloads\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmPheDuyetUV.resources
+D:\PTUD-DoAn1\Software\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\PTUD-DoAn1\Software\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\PTUD-DoAn1\Software\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\PTUD-DoAn1\Software\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\PTUD-DoAn1\Software\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\PTUD-DoAn1\Software\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csprojResolveAssemblyReference.cache
+D:\PTUD-DoAn1\Software\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmNhanDSUV.resources
+D:\PTUD-DoAn1\Software\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmPheDuyetUV.resources
+D:\PTUD-DoAn1\Software\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\PTUD-DoAn1\Software\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csproj.GenerateResource.Cache
+D:\PTUD-DoAn1\Software\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChiTiet.resources
+D:\PTUD-DoAn1\Software\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDangNhap.resources
+D:\PTUD-DoAn1\Software\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChinh.resources
+D:\PTUD-DoAn1\Software\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLNV.resources
+D:\PTUD-DoAn1\Code\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\PTUD-DoAn1\Code\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\PTUD-DoAn1\Code\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\PTUD-DoAn1\Code\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\PTUD-DoAn1\Code\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\PTUD-DoAn1\Code\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csprojResolveAssemblyReference.cache
+D:\PTUD-DoAn1\Code\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDangNhap.resources
+D:\PTUD-DoAn1\Code\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChinh.resources
+D:\PTUD-DoAn1\Code\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChiTiet.resources
+D:\PTUD-DoAn1\Code\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmNhanDSUV.resources
+D:\PTUD-DoAn1\Code\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmPheDuyetUV.resources
+D:\PTUD-DoAn1\Code\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLNV.resources
+D:\PTUD-DoAn1\Code\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\PTUD-DoAn1\Code\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PTUD\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\PTUD\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\PTUD\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\PTUD\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PTUD\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDangNhap.resources
+C:\Users\Administrator\Desktop\PTUD\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChinh.resources
+C:\Users\Administrator\Desktop\PTUD\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChiTiet.resources
+C:\Users\Administrator\Desktop\PTUD\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLNV.resources
+C:\Users\Administrator\Desktop\PTUD\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PTUD\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PTUD\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\PTUD\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DHien\Downloads\QuanLiTuyenDung\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DHien\Downloads\QuanLiTuyenDung\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DHien\Downloads\QuanLiTuyenDung\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csprojResolveAssemblyReference.cache
+C:\Users\DHien\Downloads\QuanLiTuyenDung\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDangNhap.resources
+C:\Users\DHien\Downloads\QuanLiTuyenDung\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChinh.resources
+C:\Users\DHien\Downloads\QuanLiTuyenDung\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChiTiet.resources
+C:\Users\DHien\Downloads\QuanLiTuyenDung\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmNhanDSUV.resources
+C:\Users\DHien\Downloads\QuanLiTuyenDung\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmPheDuyetUV.resources
+C:\Users\DHien\Downloads\QuanLiTuyenDung\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLNV.resources
+C:\Users\DHien\Downloads\QuanLiTuyenDung\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_QuanLyVTTD.resources
+C:\Users\DHien\Downloads\QuanLiTuyenDung\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DHien\Downloads\QuanLiTuyenDung\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csproj.GenerateResource.Cache
+C:\Users\DHien\Downloads\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDangNhap.resources
+C:\Users\DHien\Downloads\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChinh.resources
+C:\Users\DHien\Downloads\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChiTiet.resources
+C:\Users\DHien\Downloads\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLNV.resources
+C:\Users\DHien\Downloads\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLViTriTuyenDung.resources
+C:\Users\DHien\Downloads\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLichPhongVan.resources
+C:\Users\Administrator\Desktop\PTUD\code\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\PTUD\code\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\PTUD\code\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\PTUD\code\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PTUD\code\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDangNhap.resources
+C:\Users\Administrator\Desktop\PTUD\code\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChinh.resources
+C:\Users\Administrator\Desktop\PTUD\code\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChiTiet.resources
+C:\Users\Administrator\Desktop\PTUD\code\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLichPhongVan.resources
+C:\Users\Administrator\Desktop\PTUD\code\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmNhanDSUV.resources
+C:\Users\Administrator\Desktop\PTUD\code\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmPheDuyetUV.resources
+C:\Users\Administrator\Desktop\PTUD\code\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLNV.resources
+C:\Users\Administrator\Desktop\PTUD\code\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLViTriTuyenDung.resources
+C:\Users\Administrator\Desktop\PTUD\code\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PTUD\code\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PTUD\code\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\PTUD\code\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DHien\Downloads\New folder\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csprojResolveAssemblyReference.cache
+C:\Users\DHien\Downloads\New folder\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDangNhap.resources
+C:\Users\DHien\Downloads\New folder\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChinh.resources
+C:\Users\DHien\Downloads\New folder\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChiTiet.resources
+C:\Users\DHien\Downloads\New folder\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLichPhongVan.resources
+C:\Users\DHien\Downloads\New folder\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmNhanDSUV.resources
+C:\Users\DHien\Downloads\New folder\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmPheDuyetUV.resources
+C:\Users\DHien\Downloads\New folder\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLNV.resources
+C:\Users\DHien\Downloads\New folder\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLViTriTuyenDung.resources
+C:\Users\DHien\Downloads\New folder\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DHien\Downloads\New folder\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csproj.GenerateResource.Cache
+C:\Users\DHien\Downloads\New folder\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DHien\Downloads\New folder\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DHien\Downloads\New folder\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\DHien\Downloads\New folder\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DHien\Downloads\New folder\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\PTUD\code\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\PTUD\code\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\PTUD\code\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\PTUD\code\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\PTUD\code\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\PTUD\code\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PTUD\code\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDangNhap.resources
+C:\Users\Administrator\Desktop\PTUD\code\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChinh.resources
+C:\Users\Administrator\Desktop\PTUD\code\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChiTiet.resources
+C:\Users\Administrator\Desktop\PTUD\code\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLichPhongVan.resources
+C:\Users\Administrator\Desktop\PTUD\code\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLNV.resources
+C:\Users\Administrator\Desktop\PTUD\code\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLViTriTuyenDung.resources
+C:\Users\Administrator\Desktop\PTUD\code\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PTUD\code\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PTUD\code\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmXemDuyetUV.resources
+C:\Users\DHien\Downloads\filekbt\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DHien\Downloads\filekbt\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DHien\Downloads\filekbt\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\DHien\Downloads\filekbt\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csprojResolveAssemblyReference.cache
+C:\Users\DHien\Downloads\filekbt\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDangNhap.resources
+C:\Users\DHien\Downloads\filekbt\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChinh.resources
+C:\Users\DHien\Downloads\filekbt\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChiTiet.resources
+C:\Users\DHien\Downloads\filekbt\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLichPhongVan.resources
+C:\Users\DHien\Downloads\filekbt\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmNhanDSUV.resources
+C:\Users\DHien\Downloads\filekbt\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmXemDuyetUV.resources
+C:\Users\DHien\Downloads\filekbt\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLNV.resources
+C:\Users\DHien\Downloads\filekbt\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLViTriTuyenDung.resources
+C:\Users\DHien\Downloads\filekbt\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DHien\Downloads\filekbt\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csproj.GenerateResource.Cache
+C:\Users\DHien\Downloads\filekbt\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\DHien\Downloads\filekbt\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DHien\Downloads\New folder\qltd\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DHien\Downloads\New folder\qltd\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DHien\Downloads\New folder\qltd\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\qltd\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\qltd\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\qltd\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\qltd\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\qltd\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\qltd\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csprojResolveAssemblyReference.cache
+D:\qltd\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDangNhap.resources
+D:\qltd\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChinh.resources
+D:\qltd\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChiTiet.resources
+D:\qltd\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLichPhongVan.resources
+D:\qltd\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmXemDuyetUV.resources
+D:\qltd\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLNV.resources
+D:\qltd\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLViTriTuyenDung.resources
+D:\qltd\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\qltd\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csproj.GenerateResource.Cache
+D:\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csprojResolveAssemblyReference.cache
+D:\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDangNhap.resources
+D:\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChinh.resources
+D:\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChiTiet.resources
+D:\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.src.Boundarys.frmDangTin.resources
+D:\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLichPhongVan.resources
+D:\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmNhanDSUV.resources
+D:\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmXemDuyetUV.resources
+D:\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLNV.resources
+D:\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLViTriTuyenDung.resources
+D:\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PTUD\code_new\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\PTUD\code_new\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\PTUD\code_new\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\PTUD\code_new\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\PTUD\code_new\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\PTUD\code_new\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PTUD\code_new\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDangNhap.resources
+C:\Users\Administrator\Desktop\PTUD\code_new\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChinh.resources
+C:\Users\Administrator\Desktop\PTUD\code_new\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChiTiet.resources
+C:\Users\Administrator\Desktop\PTUD\code_new\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.src.Boundarys.frmDangTin.resources
+C:\Users\Administrator\Desktop\PTUD\code_new\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLichPhongVan.resources
+C:\Users\Administrator\Desktop\PTUD\code_new\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmNhanDSUV.resources
+C:\Users\Administrator\Desktop\PTUD\code_new\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmXemDuyetUV.resources
+C:\Users\Administrator\Desktop\PTUD\code_new\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLNV.resources
+C:\Users\Administrator\Desktop\PTUD\code_new\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLViTriTuyenDung.resources
+C:\Users\Administrator\Desktop\PTUD\code_new\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PTUD\code_new\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csproj.GenerateResource.Cache
+D:\qltd\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.src.Boundarys.frmDoiMatKhau.resources
+D:\qltd\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.src.Boundarys.frmNhanUV.resources
+D:\qltd\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\System.Resources.Reader.dll
+D:\DoAn1\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\DoAn1\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\DoAn1\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\DoAn1\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csprojResolveAssemblyReference.cache
+D:\DoAn1\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.src.Boundarys.frmNhanUV.resources
+D:\DoAn1\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDangNhap.resources
+D:\DoAn1\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChinh.resources
+D:\DoAn1\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChiTiet.resources
+D:\DoAn1\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.src.Boundarys.frmDoiMatKhau.resources
+D:\DoAn1\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLichPhongVan.resources
+D:\DoAn1\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmXemDuyetUV.resources
+D:\DoAn1\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLNV.resources
+D:\DoAn1\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLViTriTuyenDung.resources
+D:\DoAn1\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\DoAn1\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csproj.GenerateResource.Cache
+D:\DoAn1\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\DoAn1\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\DoAn1\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\System.Resources.Reader.dll
+D:\qltd\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+D:\qltd\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\qltd\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\Interop.AcroPDFLib.dll
+D:\qltd\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\qltd\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\PTUD\code\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Administrator\Desktop\PTUD\code\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Administrator\Desktop\PTUD\code\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\PTUD\code\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\System.Resources.Reader.dll
+C:\Users\Administrator\Desktop\PTUD\code\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Administrator\Desktop\PTUD\code\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Administrator\Desktop\PTUD\code\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.src.Boundarys.frmNhanUV.resources
+C:\Users\Administrator\Desktop\PTUD\code\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.src.Boundarys.frmDoiMatKhau.resources
+D:\qltd\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\qltd\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\Interop.AcroPDFLib.dll
+D:\qltd\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\qltd\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csproj.ResolveComReference.cache
+D:\qltd\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\qltd\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\qltd\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\qltd\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\qltd\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\System.Resources.Reader.dll
+D:\qltd\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+D:\qltd\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\qltd\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csprojResolveAssemblyReference.cache
+D:\qltd\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.src.Boundarys.frmNhanUV.resources
+D:\qltd\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDangNhap.resources
+D:\qltd\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChinh.resources
+D:\qltd\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChiTiet.resources
+D:\qltd\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.src.Boundarys.frmDoiMatKhau.resources
+D:\qltd\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLichPhongVan.resources
+D:\qltd\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmXemDuyetUV.resources
+D:\qltd\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLNV.resources
+D:\qltd\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLViTriTuyenDung.resources
+D:\qltd\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\qltd\qltd-master\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PTUD\code_new\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\PTUD\code_new\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Administrator\Desktop\PTUD\code_new\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Administrator\Desktop\PTUD\code_new\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\PTUD\code_new\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\PTUD\code_new\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\PTUD\code_new\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PTUD\code_new\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.src.Boundarys.frmNhanUV.resources
+C:\Users\Administrator\Desktop\PTUD\code_new\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDangNhap.resources
+C:\Users\Administrator\Desktop\PTUD\code_new\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChinh.resources
+C:\Users\Administrator\Desktop\PTUD\code_new\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChiTiet.resources
+C:\Users\Administrator\Desktop\PTUD\code_new\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.src.Boundarys.frmDoiMatKhau.resources
+C:\Users\Administrator\Desktop\PTUD\code_new\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLichPhongVan.resources
+C:\Users\Administrator\Desktop\PTUD\code_new\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmXemDuyetUV.resources
+C:\Users\Administrator\Desktop\PTUD\code_new\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLNV.resources
+C:\Users\Administrator\Desktop\PTUD\code_new\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLViTriTuyenDung.resources
+C:\Users\Administrator\Desktop\PTUD\code_new\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PTUD\code_new\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PTUD\code_new\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\PTUD\code_new\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\PTUD\code_new\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\System.Resources.Reader.dll
+C:\Users\Administrator\Desktop\PTUD\code_new\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Administrator\Desktop\PTUD\code_new\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\qltd\New\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\qltd\New\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\Interop.AcroPDFLib.dll
+D:\qltd\New\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\qltd\New\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csproj.ResolveComReference.cache
+D:\qltd\New\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\qltd\New\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\qltd\New\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\qltd\New\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\qltd\New\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\System.Resources.Reader.dll
+D:\qltd\New\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+D:\qltd\New\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\qltd\New\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csprojResolveAssemblyReference.cache
+D:\qltd\New\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.src.Boundarys.frmNhanUV.resources
+D:\qltd\New\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDangNhap.resources
+D:\qltd\New\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChinh.resources
+D:\qltd\New\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChiTiet.resources
+D:\qltd\New\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.src.Boundarys.frmDoiMatKhau.resources
+D:\qltd\New\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLichPhongVan.resources
+D:\qltd\New\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmXemDuyetUV.resources
+D:\qltd\New\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLNV.resources
+D:\qltd\New\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLViTriTuyenDung.resources
+D:\qltd\New\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\qltd\New\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PTUD\code_new - Copy\QuanLiTuyenDung_new\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\PTUD\code_new - Copy\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Administrator\Desktop\PTUD\code_new - Copy\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Administrator\Desktop\PTUD\code_new - Copy\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\PTUD\code_new - Copy\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\PTUD\code_new - Copy\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\PTUD\code_new - Copy\QuanLiTuyenDung_new\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\PTUD\code_new - Copy\QuanLiTuyenDung_new\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\PTUD\code_new - Copy\QuanLiTuyenDung_new\WindowsFormsApplication1\bin\Debug\System.Resources.Reader.dll
+C:\Users\Administrator\Desktop\PTUD\code_new - Copy\QuanLiTuyenDung_new\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Administrator\Desktop\PTUD\code_new - Copy\QuanLiTuyenDung_new\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Administrator\Desktop\PTUD\code_new - Copy\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PTUD\code_new - Copy\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.src.Boundarys.frmNhanUV.resources
+C:\Users\Administrator\Desktop\PTUD\code_new - Copy\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDangNhap.resources
+C:\Users\Administrator\Desktop\PTUD\code_new - Copy\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChinh.resources
+C:\Users\Administrator\Desktop\PTUD\code_new - Copy\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChiTiet.resources
+C:\Users\Administrator\Desktop\PTUD\code_new - Copy\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.src.Boundarys.frmDoiMatKhau.resources
+C:\Users\Administrator\Desktop\PTUD\code_new - Copy\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLichPhongVan.resources
+C:\Users\Administrator\Desktop\PTUD\code_new - Copy\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmXemDuyetUV.resources
+C:\Users\Administrator\Desktop\PTUD\code_new - Copy\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLNV.resources
+C:\Users\Administrator\Desktop\PTUD\code_new - Copy\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLViTriTuyenDung.resources
+C:\Users\Administrator\Desktop\PTUD\code_new - Copy\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PTUD\code_new - Copy\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csproj.GenerateResource.Cache
+C:\Users\DHien\Downloads\QuanLiTuyenDung_new\QuanLiTuyenDung_new\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DHien\Downloads\QuanLiTuyenDung_new\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\DHien\Downloads\QuanLiTuyenDung_new\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\DHien\Downloads\QuanLiTuyenDung_new\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csproj.ResolveComReference.cache
+C:\Users\DHien\Downloads\QuanLiTuyenDung_new\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DHien\Downloads\QuanLiTuyenDung_new\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\DHien\Downloads\QuanLiTuyenDung_new\QuanLiTuyenDung_new\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\DHien\Downloads\QuanLiTuyenDung_new\QuanLiTuyenDung_new\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DHien\Downloads\QuanLiTuyenDung_new\QuanLiTuyenDung_new\WindowsFormsApplication1\bin\Debug\System.Resources.Reader.dll
+C:\Users\DHien\Downloads\QuanLiTuyenDung_new\QuanLiTuyenDung_new\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\DHien\Downloads\QuanLiTuyenDung_new\QuanLiTuyenDung_new\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\DHien\Downloads\QuanLiTuyenDung_new\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csprojResolveAssemblyReference.cache
+C:\Users\DHien\Downloads\QuanLiTuyenDung_new\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.src.Boundarys.frmNhanUV.resources
+C:\Users\DHien\Downloads\QuanLiTuyenDung_new\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDangNhap.resources
+C:\Users\DHien\Downloads\QuanLiTuyenDung_new\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChinh.resources
+C:\Users\DHien\Downloads\QuanLiTuyenDung_new\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChiTiet.resources
+C:\Users\DHien\Downloads\QuanLiTuyenDung_new\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.src.Boundarys.frmDoiMatKhau.resources
+C:\Users\DHien\Downloads\QuanLiTuyenDung_new\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLichPhongVan.resources
+C:\Users\DHien\Downloads\QuanLiTuyenDung_new\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmXemDuyetUV.resources
+C:\Users\DHien\Downloads\QuanLiTuyenDung_new\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLNV.resources
+C:\Users\DHien\Downloads\QuanLiTuyenDung_new\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLViTriTuyenDung.resources
+C:\Users\DHien\Downloads\QuanLiTuyenDung_new\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DHien\Downloads\QuanLiTuyenDung_new\QuanLiTuyenDung_new\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PTUD\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Administrator\Desktop\PTUD\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Administrator\Desktop\PTUD\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\QuanLiTuyenDung_ver1.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\PTUD\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\System.Resources.Reader.dll
+C:\Users\Administrator\Desktop\PTUD\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Administrator\Desktop\PTUD\QuanLiTuyenDung\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Administrator\Desktop\PTUD\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.src.Boundarys.frmNhanUV.resources
+C:\Users\Administrator\Desktop\PTUD\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.src.Boundarys.frmDoiMatKhau.resources
+C:\Users\Administrator\Desktop\PTUD\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLichPhongVan.resources
+C:\Users\Administrator\Desktop\PTUD\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmXemDuyetUV.resources
+C:\Users\Administrator\Desktop\PTUD\QuanLiTuyenDung\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQLViTriTuyenDung.resources

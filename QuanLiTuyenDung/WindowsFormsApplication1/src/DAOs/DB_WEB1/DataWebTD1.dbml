@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="webTD1" Class="DataWebTD1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-A2ECC09;Initial Catalog=webTD1;Integrated Security=True" SettingsObjectName="WindowsFormsApplication1.Properties.Settings" SettingsPropertyName="webTD1ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.UNGVIEN" Member="UNGVIENs">
+    <Type Name="UNGVIEN">
+      <Column Name="MaUV" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TenUV" Type="System.String" DbType="NVarChar(40)" CanBeNull="true" />
+      <Column Name="GioiTinh" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="NgaySinh" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="CMND" Type="System.String" DbType="Char(12) NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="SDT" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="TrinhDoHV" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="NgoaiNgu" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="SoNamKN" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CV" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Association Name="UNGVIEN_VTTD_UNGTUYEN" Member="VTTD_UNGTUYENs" ThisKey="MaUV" OtherKey="MaUV_UV" Type="VTTD_UNGTUYEN" />
+    </Type>
+  </Table>
+  <Table Name="dbo.VITRITUYENDUNG" Member="VITRITUYENDUNGs">
+    <Type Name="VITRITUYENDUNG">
+      <Column Name="MaVT" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TenVT" Type="System.String" DbType="NVarChar(40) NOT NULL" CanBeNull="false" />
+      <Association Name="VITRITUYENDUNG_VTTD_UNGTUYEN" Member="VTTD_UNGTUYENs" ThisKey="MaVT" OtherKey="MaVT_VT" Type="VTTD_UNGTUYEN" />
+    </Type>
+  </Table>
+  <Table Name="dbo.VTTD_UNGTUYEN" Member="VTTD_UNGTUYENs">
+    <Type Name="VTTD_UNGTUYEN">
+      <Column Name="MaUV_UV" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaVT_VT" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="UNGVIEN_VTTD_UNGTUYEN" Member="UNGVIEN" ThisKey="MaUV_UV" OtherKey="MaUV" Type="UNGVIEN" IsForeignKey="true" />
+      <Association Name="VITRITUYENDUNG_VTTD_UNGTUYEN" Member="VITRITUYENDUNG" ThisKey="MaVT_VT" OtherKey="MaVT" Type="VITRITUYENDUNG" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

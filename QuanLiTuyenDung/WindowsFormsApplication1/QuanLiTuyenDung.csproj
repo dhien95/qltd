@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{ACA528B6-3ED3-41B1-810C-9F5EBF65C2D4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>WindowsFormsApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Resources.Reader, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Resources.Reader.4.3.0\lib\netstandard1.0\System.Resources.Reader.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="src\Boundarys\frmNhanDSUV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\Boundarys\frmNhanDSUV.Designer.cs">
+      <DependentUpon>frmNhanDSUV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\Boundarys\frmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\Boundarys\frmDangNhap.Designer.cs">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\Boundarys\frmChinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\Boundarys\frmChinh.Designer.cs">
+      <DependentUpon>frmChinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\Boundarys\frmChiTiet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\Boundarys\frmChiTiet.Designer.cs">
+      <DependentUpon>frmChiTiet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\Boundarys\frmDoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\Boundarys\frmDoiMatKhau.Designer.cs">
+      <DependentUpon>frmDoiMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\Boundarys\frmLichPhongVan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\Boundarys\frmLichPhongVan.Designer.cs">
+      <DependentUpon>frmLichPhongVan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\Boundarys\frmXemDuyetUV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\Boundarys\frmXemDuyetUV.Designer.cs">
+      <DependentUpon>frmXemDuyetUV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\Boundarys\frmQLNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\Boundarys\frmQLNV.Designer.cs">
+      <DependentUpon>frmQLNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\Boundarys\frmQLViTriTuyenDung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\Boundarys\frmQLViTriTuyenDung.Designer.cs">
+      <DependentUpon>frmQLViTriTuyenDung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="src\Controlers\ctrlDoiMatKhau.cs" />
+    <Compile Include="src\Controlers\ctrlQLLichPV.cs" />
+    <Compile Include="src\Controlers\ctrlGUI.cs" />
+    <Compile Include="src\Controlers\ctrlNhanDSUV.cs" />
+    <Compile Include="src\Controlers\ctrlPheDuyet.cs" />
+    <Compile Include="src\Controlers\ctrlQLNhanVien.cs" />
+    <Compile Include="src\Controlers\ctrlDeXuat.cs" />
+    <Compile Include="src\Controlers\ctrlQLUngVien.cs" />
+    <Compile Include="src\Controlers\ctrlQuanLyVTTD.cs" />
+    <Compile Include="src\DAOs\DB_QLTD\DataQuanLiTuyenDung.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataQuanLiTuyenDung.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="src\DAOs\DB_WEB1\DataWebTD1.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataWebTD1.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="src\Entitys\clsTaiKhoan.cs" />
+    <Compile Include="src\Entitys\clsLichPhongVan.cs" />
+    <Compile Include="src\Entitys\clsNhanVienTuyenDung.cs" />
+    <Compile Include="src\Entitys\clsRole.cs" />
+    <Compile Include="src\Entitys\clsUngVien.cs" />
+    <Compile Include="src\Entitys\clsViTriTuyenDung.cs" />
+    <Compile Include="src\Entitys\clsWeb.cs" />
+    <Compile Include="src\Services\connDBWeb.cs" />
+    <Compile Include="src\Services\connLichPV_UngVien.cs" />
+    <Compile Include="src\Services\connTaiKhoan.cs" />
+    <Compile Include="src\Services\connVTTD.cs" />
+    <Compile Include="src\Services\connDB.cs" />
+    <Compile Include="src\Services\connLichPV.cs" />
+    <Compile Include="src\Services\connVTTD_UngVien.cs" />
+    <None Include="packages.config" />
+    <None Include="src\DAOs\DB_QLTD\DataQuanLiTuyenDung.dbml.layout">
+      <DependentUpon>DataQuanLiTuyenDung.dbml</DependentUpon>
+    </None>
+    <None Include="src\DAOs\DB_QLTD\DataQuanLiTuyenDung.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataQuanLiTuyenDung.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="src\DAOs\DB_WEB1\DataWebTD1.dbml.layout">
+      <DependentUpon>DataWebTD1.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="src\Boundarys\frmNhanDSUV.resx">
+      <DependentUpon>frmNhanDSUV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\Boundarys\frmDangNhap.resx">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\Boundarys\frmChinh.resx">
+      <DependentUpon>frmChinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\Boundarys\frmChiTiet.resx">
+      <DependentUpon>frmChiTiet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\Boundarys\frmDoiMatKhau.resx">
+      <DependentUpon>frmDoiMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\Boundarys\frmLichPhongVan.resx">
+      <DependentUpon>frmLichPhongVan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\Boundarys\frmXemDuyetUV.resx">
+      <DependentUpon>frmXemDuyetUV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\Boundarys\frmQLNV.resx">
+      <DependentUpon>frmQLNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\Boundarys\frmQLViTriTuyenDung.resx">
+      <DependentUpon>frmQLViTriTuyenDung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="src\DAOs\DB_WEB1\DataWebTD1.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataWebTD1.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\CV\" />
+    <Folder Include="Mail\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\mailbox-message-received-2-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\job.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\PheDuyet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\DeCu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\042_list_view-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\DeCu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\XoaTK.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\ThemVT.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\XemYeuCau.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\loc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\decu_button.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\nut_save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\huyDeCu_button.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\Change1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\Update.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\Manage_Celandar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\DeCuUV.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\ChangePassword.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\x.button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\Check.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\NhanUV.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\ThemTK.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\DatLich_button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\username.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\password.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\tải xuống.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\passkey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\user.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\pass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\_User.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\user_name.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\unlook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\backgroung_DN.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\themVT_button.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QuanLyTuyenDung" Class="DataQuanLiTuyenDungDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(localdb)\v11.0;Initial Catalog=QuanLyTuyenDung;Integrated Security=True" SettingsObjectName="WindowsFormsApplication1.Properties.Settings" SettingsPropertyName="QuanLyTuyenDungConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tblLICH_PV" Member="tblLICH_PVs">
+    <Type Name="tblLICH_PV">
+      <Column Name="MaLich" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ThoiGian" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="DiaDiem" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="ID_NV" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="tblLICH_PV_tblLICHPV_UNGVIEN" Member="tblLICHPV_UNGVIENs" ThisKey="MaLich" OtherKey="MaLich" Type="tblLICHPV_UNGVIEN" />
+      <Association Name="tblNHANVIEN_tblLICH_PV" Member="tblNHANVIEN" ThisKey="ID_NV" OtherKey="ID" Type="tblNHANVIEN" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblLICHPV_UNGVIEN" Member="tblLICHPV_UNGVIENs">
+    <Type Name="tblLICHPV_UNGVIEN">
+      <Column Name="MaUV_UV" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaVT_VT" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaLich" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="tblLICH_PV_tblLICHPV_UNGVIEN" Member="tblLICH_PV" ThisKey="MaLich" OtherKey="MaLich" Type="tblLICH_PV" IsForeignKey="true" />
+      <Association Name="tblUNGVIEN_tblLICHPV_UNGVIEN" Member="tblUNGVIEN" ThisKey="MaUV_UV" OtherKey="MaUV" Type="tblUNGVIEN" IsForeignKey="true" />
+      <Association Name="tblVITRI_TD_tblLICHPV_UNGVIEN" Member="tblVITRI_TD" ThisKey="MaVT_VT" OtherKey="MaVT" Type="tblVITRI_TD" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblNHANVIEN" Member="tblNHANVIENs">
+    <Type Name="tblNHANVIEN">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TenNV" Type="System.String" DbType="NVarChar(40)" CanBeNull="true" />
+      <Column Name="ChucVu" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Association Name="tblNHANVIEN_tblLICH_PV" Member="tblLICH_PVs" ThisKey="ID" OtherKey="ID_NV" Type="tblLICH_PV" />
+      <Association Name="tblNHANVIEN_tblTAIKHOAN" Member="tblTAIKHOAN" ThisKey="ID" OtherKey="ID_NV" Type="tblTAIKHOAN" Cardinality="One" />
+      <Association Name="tblNHANVIEN_tblUNGVIEN" Member="tblUNGVIENs" ThisKey="ID" OtherKey="ID_NV" Type="tblUNGVIEN" />
+      <Association Name="tblNHANVIEN_tblVITRI_TD" Member="tblVITRI_TDs" ThisKey="ID" OtherKey="ID_NV" Type="tblVITRI_TD" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblROLE" Member="tblROLEs">
+    <Type Name="tblROLE">
+      <Column Name="MaRole" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TenRole" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="MoTa" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="tblROLE_tblTAIKHOAN" Member="tblTAIKHOANs" ThisKey="MaRole" OtherKey="MaRole_R" Type="tblTAIKHOAN" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblTAIKHOAN" Member="tblTAIKHOANs">
+    <Type Name="tblTAIKHOAN">
+      <Column Name="ID_NV" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Usernames" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="Passwords" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="MaRole_R" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="tblNHANVIEN_tblTAIKHOAN" Member="tblNHANVIEN" ThisKey="ID_NV" OtherKey="ID" Type="tblNHANVIEN" IsForeignKey="true" />
+      <Association Name="tblROLE_tblTAIKHOAN" Member="tblROLE" ThisKey="MaRole_R" OtherKey="MaRole" Type="tblROLE" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblUNGVIEN" Member="tblUNGVIENs">
+    <Type Name="tblUNGVIEN">
+      <Column Name="MaUV" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TenUV" Type="System.String" DbType="NVarChar(40)" CanBeNull="true" />
+      <Column Name="GioiTinh" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="NgaySinh" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="CMND" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="SDT" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="TrinhDoHV" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="NgoaiNgu" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="SoNamKN" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CV" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="ID_NV" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="tblUNGVIEN_tblLICHPV_UNGVIEN" Member="tblLICHPV_UNGVIENs" ThisKey="MaUV" OtherKey="MaUV_UV" Type="tblLICHPV_UNGVIEN" />
+      <Association Name="tblUNGVIEN_tblVTTD_UNGTUYEN" Member="tblVTTD_UNGTUYENs" ThisKey="MaUV" OtherKey="MaUV_UV" Type="tblVTTD_UNGTUYEN" />
+      <Association Name="tblNHANVIEN_tblUNGVIEN" Member="tblNHANVIEN" ThisKey="ID_NV" OtherKey="ID" Type="tblNHANVIEN" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblVITRI_TD" Member="tblVITRI_TDs">
+    <Type Name="tblVITRI_TD">
+      <Column Name="MaVT" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TenVT" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="SoLuong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DiaDiemLV" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Luong" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="NgayHetHan" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="MoTa" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="YeuCau" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="QuyenLoi" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="ID_NV" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="tblVITRI_TD_tblLICHPV_UNGVIEN" Member="tblLICHPV_UNGVIENs" ThisKey="MaVT" OtherKey="MaVT_VT" Type="tblLICHPV_UNGVIEN" />
+      <Association Name="tblVITRI_TD_tblVTTD_UNGTUYEN" Member="tblVTTD_UNGTUYENs" ThisKey="MaVT" OtherKey="MaVT_VT" Type="tblVTTD_UNGTUYEN" />
+      <Association Name="tblNHANVIEN_tblVITRI_TD" Member="tblNHANVIEN" ThisKey="ID_NV" OtherKey="ID" Type="tblNHANVIEN" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblVTTD_UNGTUYEN" Member="tblVTTD_UNGTUYENs">
+    <Type Name="tblVTTD_UNGTUYEN">
+      <Column Name="MaUV_UV" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaVT_VT" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TrangThaiDC" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="TrangThaiPD" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Association Name="tblUNGVIEN_tblVTTD_UNGTUYEN" Member="tblUNGVIEN" ThisKey="MaUV_UV" OtherKey="MaUV" Type="tblUNGVIEN" IsForeignKey="true" />
+      <Association Name="tblVITRI_TD_tblVTTD_UNGTUYEN" Member="tblVITRI_TD" ThisKey="MaVT_VT" OtherKey="MaVT" Type="tblVITRI_TD" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblWEB" Member="tblWEBs">
+    <Type Name="tblWEB">
+      <Column Name="MaWeb" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TenWeb" Type="System.String" DbType="NVarChar(40)" CanBeNull="true" />
+      <Column Name="Link" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
